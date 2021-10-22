@@ -1,2 +1,2 @@
 # SMXM8UF2A04
-Mi proyecto con Git
+Aquest és el primer projecte de Adrian Manzano
